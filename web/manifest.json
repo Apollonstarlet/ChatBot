@@ -1,6 +1,6 @@
 {
-    "name": "chat_gpt_02",
-    "short_name": "chat_gpt_02",
+    "name": "chat_bot",
+    "short_name": "chat_bot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
